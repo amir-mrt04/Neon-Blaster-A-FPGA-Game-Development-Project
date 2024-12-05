@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7
+# Build 321239 by xbuild on Fri Sep 27 19:31:35 MDT 2013
+# Start of session at: Wed Jan 10 14:38:21 2024
+# Process ID: 5392
+# Log file: E:/CADP/NeonBlast/planAhead_run_2/planAhead.log
+# Journal file: E:/CADP/NeonBlast/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Device 21-36] Loading parts and site information from C:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source E:/CADP/NeonBlast/pa.fromHdl.tcl
+# create_project -name NeonBlast -dir "E:/CADP/NeonBlast/planAhead_run_2" -part xc6slx9tqg144-3
+ERROR: [Common 17-53] User Exception: Project already exists on disk, please use '-force' option to overwrite: 
+     E:/CADP/NeonBlast/planAhead_run_2/NeonBlast.ppr
+     E:/CADP/NeonBlast/planAhead_run_2/NeonBlast.data
+
+    while executing
+"create_project -name NeonBlast -dir "E:/CADP/NeonBlast/planAhead_run_2" -part xc6slx9tqg144-3"
+    (file "E:/CADP/NeonBlast/pa.fromHdl.tcl" line 4)

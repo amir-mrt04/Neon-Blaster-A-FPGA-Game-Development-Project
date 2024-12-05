@@ -1,0 +1,1131 @@
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 NeonBlast.ngc NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (3)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (4)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 
+xst -intstyle ise -ifn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.xst" -ofn "E:/New folder (5)/CADP/NeonBlast/NeonBlast.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga.ucf -p xc6slx9-tqg144-3 "NeonBlast.ngc" NeonBlast.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NeonBlast_map.ncd NeonBlast.ngd NeonBlast.pcf 
+par -w -intstyle ise -ol high -mt off NeonBlast_map.ncd NeonBlast.ncd NeonBlast.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf -ucf vga.ucf 
+bitgen -intstyle ise -f NeonBlast.ut NeonBlast.ncd 

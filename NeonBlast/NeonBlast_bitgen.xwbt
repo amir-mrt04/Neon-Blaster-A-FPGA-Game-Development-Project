@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\New folder (5)\CADP\NeonBlast\NeonBlast.ncd
+OUTFILE=E:\New folder (5)\CADP\NeonBlast\NeonBlast.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=E:\New folder (5)\CADP\NeonBlast
+LICENSE=WebPack
+USER_INFO=__0_0_0

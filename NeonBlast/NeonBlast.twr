@@ -1,0 +1,251 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml NeonBlast.twx NeonBlast.ncd -o NeonBlast.twr NeonBlast.pcf
+-ucf vga.ucf
+
+Design file:              NeonBlast.ncd
+Physical constraint file: NeonBlast.pcf
+Device,package,speed:     xc6slx9,tqg144,C,-3 (PRODUCTION 1.23 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock CLOCK_24
+------------+------------+------------+------------+------------+------------------+--------+
+            |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+------------+------------+------------+------------+------------+------------------+--------+
+Key<0>      |    8.493(R)|      SLOW  |   -0.393(R)|      SLOW  |CLOCK_24_BUFGP    |   0.000|
+Key<1>      |    9.601(R)|      SLOW  |   -0.959(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Key<2>      |    5.104(R)|      SLOW  |   -0.505(R)|      SLOW  |CLOCK_24_BUFGP    |   0.000|
+Key<3>      |    3.418(R)|      SLOW  |   -1.801(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+SW<0>       |    0.858(R)|      SLOW  |    0.014(R)|      SLOW  |CLOCK_24_BUFGP    |   0.000|
+SW<1>       |    4.318(R)|      SLOW  |   -0.023(R)|      SLOW  |CLOCK_24_BUFGP    |   0.000|
+------------+------------+------------+------------+------------+------------------+--------+
+
+Clock CLOCK_24 to Pad
+----------------+-----------------+------------+-----------------+------------+------------------+--------+
+                |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination     |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+----------------+-----------------+------------+-----------------+------------+------------------+--------+
+Leds<0>         |         8.196(R)|      SLOW  |         4.378(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<1>         |         8.037(R)|      SLOW  |         4.295(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<2>         |         7.765(R)|      SLOW  |         4.052(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<3>         |         7.765(R)|      SLOW  |         4.038(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<4>         |         7.772(R)|      SLOW  |         4.045(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<5>         |         7.650(R)|      SLOW  |         3.987(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<6>         |         8.255(R)|      SLOW  |         4.337(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+Leds<7>         |         8.284(R)|      SLOW  |         4.370(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_B<0>        |        44.254(R)|      SLOW  |         5.298(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_B<1>        |        44.553(R)|      SLOW  |         5.506(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_G<0>        |        44.793(R)|      SLOW  |         5.277(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_G<1>        |        46.319(R)|      SLOW  |         5.200(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_HS          |         9.622(R)|      SLOW  |         5.035(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_R<0>        |        45.262(R)|      SLOW  |         5.773(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_R<1>        |        42.785(R)|      SLOW  |         5.269(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+VGA_VS          |        10.236(R)|      SLOW  |         4.585(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+outseg<0>       |         7.371(R)|      SLOW  |         3.888(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+outseg<1>       |         7.617(R)|      SLOW  |         4.048(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+outseg<2>       |         7.100(R)|      SLOW  |         3.655(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+outseg<3>       |         6.844(R)|      SLOW  |         3.468(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<0>|        11.572(R)|      SLOW  |         4.850(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<1>|         9.552(R)|      SLOW  |         4.501(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<2>|        10.446(R)|      SLOW  |         4.493(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<3>|        10.828(R)|      SLOW  |         4.584(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<4>|        11.541(R)|      SLOW  |         4.393(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<5>|         9.476(R)|      SLOW  |         4.331(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+sevensegments<6>|         9.824(R)|      SLOW  |         4.531(R)|      FAST  |CLOCK_24_BUFGP    |   0.000|
+----------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock RESET_N to Pad
+----------------+-----------------+------------+-----------------+------------+---------------------------------+--------+
+                |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                                 | Clock  |
+Destination     |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s)                | Phase  |
+----------------+-----------------+------------+-----------------+------------+---------------------------------+--------+
+VGA_B<0>        |        39.801(F)|      SLOW  |        10.501(F)|      FAST  |VGA_SQ/RESET_BUS_0008_AND_93_o   |   0.000|
+                |        35.096(F)|      SLOW  |         9.702(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_73_o |   0.000|
+                |        34.908(F)|      SLOW  |         9.689(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_75_o |   0.000|
+                |        36.629(F)|      SLOW  |        10.856(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_77_o |   0.000|
+                |        35.965(F)|      SLOW  |        10.351(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_79_o |   0.000|
+                |        35.593(F)|      SLOW  |        10.679(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_81_o |   0.000|
+                |        36.482(F)|      SLOW  |        11.504(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_83_o |   0.000|
+                |        36.868(F)|      SLOW  |        11.770(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_85_o |   0.000|
+                |        36.092(F)|      SLOW  |        11.751(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_87_o |   0.000|
+                |        36.146(F)|      SLOW  |        10.912(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_89_o |   0.000|
+                |        40.144(F)|      SLOW  |        11.146(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_101_o|   0.000|
+                |        37.559(F)|      SLOW  |         9.557(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_103_o|   0.000|
+                |        38.380(F)|      SLOW  |        10.408(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_105_o|   0.000|
+                |        39.974(F)|      SLOW  |        10.986(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_107_o|   0.000|
+                |        38.897(F)|      SLOW  |        10.554(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_109_o|   0.000|
+                |        39.993(F)|      SLOW  |        11.568(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_111_o|   0.000|
+                |        39.428(F)|      SLOW  |        10.757(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_95_o |   0.000|
+                |        40.443(F)|      SLOW  |        11.321(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_97_o |   0.000|
+                |        38.575(F)|      SLOW  |        10.173(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_99_o |   0.000|
+                |        44.415(F)|      SLOW  |         9.674(F)|      FAST  |VGA_SQ/RESET_rockflag_OR_68_o    |   0.000|
+                |        40.662(R)|      SLOW  |         6.171(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+VGA_B<1>        |        39.232(F)|      SLOW  |        10.648(F)|      FAST  |VGA_SQ/RESET_BUS_0008_AND_93_o   |   0.000|
+                |        35.395(F)|      SLOW  |         9.889(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_73_o |   0.000|
+                |        35.207(F)|      SLOW  |         9.876(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_75_o |   0.000|
+                |        36.928(F)|      SLOW  |        11.043(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_77_o |   0.000|
+                |        36.264(F)|      SLOW  |        10.538(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_79_o |   0.000|
+                |        35.892(F)|      SLOW  |        10.866(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_81_o |   0.000|
+                |        36.781(F)|      SLOW  |        11.691(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_83_o |   0.000|
+                |        37.167(F)|      SLOW  |        11.957(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_85_o |   0.000|
+                |        36.391(F)|      SLOW  |        11.938(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_87_o |   0.000|
+                |        36.445(F)|      SLOW  |        11.099(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_89_o |   0.000|
+                |        39.575(F)|      SLOW  |        11.293(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_101_o|   0.000|
+                |        36.990(F)|      SLOW  |         9.704(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_103_o|   0.000|
+                |        37.811(F)|      SLOW  |        10.148(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_105_o|   0.000|
+                |        39.405(F)|      SLOW  |        11.000(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_107_o|   0.000|
+                |        38.328(F)|      SLOW  |        10.491(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_109_o|   0.000|
+                |        39.424(F)|      SLOW  |        11.239(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_111_o|   0.000|
+                |        38.859(F)|      SLOW  |        10.904(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_95_o |   0.000|
+                |        39.874(F)|      SLOW  |        11.468(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_97_o |   0.000|
+                |        38.006(F)|      SLOW  |        10.320(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_99_o |   0.000|
+                |        43.846(F)|      SLOW  |         9.821(F)|      FAST  |VGA_SQ/RESET_rockflag_OR_68_o    |   0.000|
+                |        40.961(R)|      SLOW  |         6.462(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+VGA_G<0>        |        40.270(F)|      SLOW  |        10.888(F)|      FAST  |VGA_SQ/RESET_BUS_0008_AND_93_o   |   0.000|
+                |        35.635(F)|      SLOW  |        10.081(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_73_o |   0.000|
+                |        35.447(F)|      SLOW  |        10.068(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_75_o |   0.000|
+                |        37.168(F)|      SLOW  |        11.235(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_77_o |   0.000|
+                |        36.504(F)|      SLOW  |        10.730(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_79_o |   0.000|
+                |        36.132(F)|      SLOW  |        11.058(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_81_o |   0.000|
+                |        37.021(F)|      SLOW  |        11.883(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_83_o |   0.000|
+                |        37.407(F)|      SLOW  |        12.149(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_85_o |   0.000|
+                |        36.631(F)|      SLOW  |        12.130(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_87_o |   0.000|
+                |        36.685(F)|      SLOW  |        11.291(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_89_o |   0.000|
+                |        40.613(F)|      SLOW  |        11.533(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_101_o|   0.000|
+                |        38.028(F)|      SLOW  |         9.944(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_103_o|   0.000|
+                |        38.849(F)|      SLOW  |        10.795(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_105_o|   0.000|
+                |        40.443(F)|      SLOW  |        11.373(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_107_o|   0.000|
+                |        39.366(F)|      SLOW  |        10.941(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_109_o|   0.000|
+                |        40.462(F)|      SLOW  |        11.942(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_111_o|   0.000|
+                |        39.897(F)|      SLOW  |        11.144(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_95_o |   0.000|
+                |        40.912(F)|      SLOW  |        11.708(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_97_o |   0.000|
+                |        39.044(F)|      SLOW  |        10.560(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_99_o |   0.000|
+                |        44.884(F)|      SLOW  |        10.061(F)|      FAST  |VGA_SQ/RESET_rockflag_OR_68_o    |   0.000|
+                |        41.201(R)|      SLOW  |         6.367(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+VGA_G<1>        |        18.565(F)|      SLOW  |        10.758(F)|      FAST  |VGA_SQ/RESET_BUS_0008_AND_93_o   |   0.000|
+                |        37.161(F)|      SLOW  |        10.879(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_73_o |   0.000|
+                |        36.973(F)|      SLOW  |        10.866(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_75_o |   0.000|
+                |        38.694(F)|      SLOW  |        12.033(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_77_o |   0.000|
+                |        38.030(F)|      SLOW  |        11.528(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_79_o |   0.000|
+                |        37.658(F)|      SLOW  |        11.856(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_81_o |   0.000|
+                |        38.547(F)|      SLOW  |        12.681(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_83_o |   0.000|
+                |        38.933(F)|      SLOW  |        12.947(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_85_o |   0.000|
+                |        38.157(F)|      SLOW  |        12.928(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_87_o |   0.000|
+                |        38.211(F)|      SLOW  |        12.089(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_89_o |   0.000|
+                |        20.932(F)|      SLOW  |        11.189(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_101_o|   0.000|
+                |        18.135(F)|      SLOW  |         9.462(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_103_o|   0.000|
+                |        19.838(F)|      SLOW  |        10.348(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_105_o|   0.000|
+                |        21.246(F)|      SLOW  |        11.188(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_107_o|   0.000|
+                |        19.751(F)|      SLOW  |        10.345(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_109_o|   0.000|
+                |        21.143(F)|      SLOW  |        11.295(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_111_o|   0.000|
+                |        18.819(F)|      SLOW  |        10.849(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_95_o |   0.000|
+                |        19.247(F)|      SLOW  |        11.040(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_97_o |   0.000|
+                |        17.961(F)|      SLOW  |         9.850(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_99_o |   0.000|
+                |        19.168(F)|      SLOW  |         9.758(F)|      FAST  |VGA_SQ/RESET_rockflag_OR_68_o    |   0.000|
+                |        42.727(R)|      SLOW  |         6.094(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+VGA_R<0>        |        41.670(R)|      SLOW  |         6.235(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+                |        19.823(F)|      SLOW  |        10.926(F)|      FAST  |VGA_SQ/RESET_BUS_0008_AND_93_o   |   0.000|
+                |        36.104(F)|      SLOW  |        10.308(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_73_o |   0.000|
+                |        35.916(F)|      SLOW  |        10.295(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_75_o |   0.000|
+                |        37.637(F)|      SLOW  |        11.462(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_77_o |   0.000|
+                |        36.973(F)|      SLOW  |        10.957(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_79_o |   0.000|
+                |        36.601(F)|      SLOW  |        11.285(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_81_o |   0.000|
+                |        37.490(F)|      SLOW  |        12.110(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_83_o |   0.000|
+                |        37.876(F)|      SLOW  |        12.376(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_85_o |   0.000|
+                |        37.100(F)|      SLOW  |        12.357(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_87_o |   0.000|
+                |        37.154(F)|      SLOW  |        11.518(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_89_o |   0.000|
+                |        22.190(F)|      SLOW  |        11.571(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_101_o|   0.000|
+                |        19.393(F)|      SLOW  |         9.982(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_103_o|   0.000|
+                |        21.096(F)|      SLOW  |        10.833(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_105_o|   0.000|
+                |        22.504(F)|      SLOW  |        11.411(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_107_o|   0.000|
+                |        21.009(F)|      SLOW  |        10.979(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_109_o|   0.000|
+                |        22.401(F)|      SLOW  |        11.993(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_111_o|   0.000|
+                |        20.077(F)|      SLOW  |        11.182(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_95_o |   0.000|
+                |        20.047(F)|      SLOW  |        11.746(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_97_o |   0.000|
+                |        19.219(F)|      SLOW  |        10.598(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_99_o |   0.000|
+                |        19.732(F)|      SLOW  |        10.099(F)|      FAST  |VGA_SQ/RESET_rockflag_OR_68_o    |   0.000|
+VGA_R<1>        |        39.193(R)|      SLOW  |         6.126(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+                |        18.543(F)|      SLOW  |        10.131(F)|      FAST  |VGA_SQ/RESET_BUS_0008_AND_93_o   |   0.000|
+                |        33.627(F)|      SLOW  |         8.727(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_73_o |   0.000|
+                |        33.439(F)|      SLOW  |         8.714(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_75_o |   0.000|
+                |        35.160(F)|      SLOW  |         9.881(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_77_o |   0.000|
+                |        34.496(F)|      SLOW  |         9.376(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_79_o |   0.000|
+                |        34.124(F)|      SLOW  |         9.704(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_81_o |   0.000|
+                |        35.013(F)|      SLOW  |        10.529(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_83_o |   0.000|
+                |        35.399(F)|      SLOW  |        10.795(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_85_o |   0.000|
+                |        34.623(F)|      SLOW  |        10.776(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_87_o |   0.000|
+                |        34.677(F)|      SLOW  |         9.937(F)|      FAST  |VGA_SQ/RESET_SquareX[9]_AND_89_o |   0.000|
+                |        20.910(F)|      SLOW  |        10.776(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_101_o|   0.000|
+                |        18.113(F)|      SLOW  |         9.187(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_103_o|   0.000|
+                |        19.816(F)|      SLOW  |        10.038(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_105_o|   0.000|
+                |        21.224(F)|      SLOW  |        10.616(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_107_o|   0.000|
+                |        19.729(F)|      SLOW  |        10.184(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_109_o|   0.000|
+                |        21.121(F)|      SLOW  |        11.198(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_111_o|   0.000|
+                |        18.797(F)|      SLOW  |        10.387(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_95_o |   0.000|
+                |        18.767(F)|      SLOW  |        10.951(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_97_o |   0.000|
+                |        17.939(F)|      SLOW  |         9.803(F)|      FAST  |VGA_SQ/RESET_random[24]_AND_99_o |   0.000|
+                |        18.452(F)|      SLOW  |         9.304(F)|      FAST  |VGA_SQ/RESET_rockflag_OR_68_o    |   0.000|
+sevensegments<0>|        12.222(R)|      SLOW  |         5.237(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+sevensegments<1>|        11.879(R)|      SLOW  |         6.704(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+sevensegments<2>|        12.048(R)|      SLOW  |         6.487(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+sevensegments<3>|        13.068(R)|      SLOW  |         5.477(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+sevensegments<4>|        10.292(R)|      SLOW  |         5.258(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+sevensegments<5>|         9.285(R)|      SLOW  |         4.934(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+sevensegments<6>|         9.856(R)|      SLOW  |         5.272(R)|      FAST  |RESET_N_IBUF_BUFG                |   0.000|
+----------------+-----------------+------------+-----------------+------------+---------------------------------+--------+
+
+Clock to Setup on destination clock CLOCK_24
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLOCK_24       |   47.852|         |         |         |
+RESET_N        |   13.307|   17.552|         |         |
+---------------+---------+---------+---------+---------+
+
+Clock to Setup on destination clock RESET_N
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLOCK_24       |         |         |   64.185|         |
+RESET_N        |    4.868|    4.868|    2.721|    2.721|
+---------------+---------+---------+---------+---------+
+
+
+Analysis completed Tue Jan 30 23:15:19 2024 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4656 MB
+
+
+
